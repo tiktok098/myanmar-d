@@ -1,2 +1,2 @@
-# myanmar-d
-  (1) unzip /sdcard/Download/Dragon.zip  (2) cp -r /sdcard/Download/Dragon /$HOME/  (3) cd Dragon/  (4) chmod +x *  (5) bash install.sh
+tool fil...
+https://www.dropbox.com/s/zdh3jrez9zxj7mu/Dragon.zip?dl=0
